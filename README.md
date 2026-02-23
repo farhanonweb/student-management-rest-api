@@ -18,28 +18,6 @@ This project performs full CRUD operations with validation and proper exception 
 
 ---
 
-## 📂 Project Structure
-
-com.farhan.studentapi
-│
-├── model
-│     └── Student.java
-│
-├── repository
-│     └── StudentRepository.java
-│
-├── service
-│     └── StudentService.java
-│
-├── controller
-│     └── StudentController.java
-│
-├── exception
-│     ├── ResourceNotFoundException.java
-│     └── GlobalExceptionHandler.java
-
----
-
 ## 🛠️ Database Setup
 
 1. Open MySQL Workbench
